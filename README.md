@@ -41,6 +41,7 @@ pip install tensorflow numpy matplotlib
 ```
 ## Dataset
 [Fashion MNIST dataset](https://keras.io/api/datasets/fashion_mnist/)
+
 This is a dataset of 60,000 28x28 grayscale images of 10 fashion categories, along with a test set of 10,000 images. This dataset can be used as a drop-in replacement for MNIST.
 
 The classes are:
@@ -62,4 +63,4 @@ The classes are:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulyana-yezubchyk/)](https://www.linkedin.com/in/ulyana-yezubchyk/)
 [![Email](https://img.shields.io/badge/Email-ulyaa.071@gmail.com-green.svg)](mailto:your_email@example.com)
 
-[![Back to Top](https://img.shields.io/badge/-Back_to_Top-blue?style=flat-square)](#News-Headlines-Sarcasm-Detection)
+[![Back to Top](https://img.shields.io/badge/-Back_to_Top-blue?style=flat-square)](#Fashion-MNIST-Neural-Network-Classifier)
